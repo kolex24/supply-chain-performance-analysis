@@ -15,6 +15,7 @@ This project analyzes a manufacturing supply chain dataset containing informatio
 - Defect Rates
 - Inspection Results
 - Regional Sales
+  
 The dataset was transformed using Power Query and analyzed with DAX measures in Power BI.
 
 ---
@@ -34,3 +35,29 @@ A manufacturing company faced challenges in monitoring sales performance, logist
 - Monitor inventory availability and stock levels to identify risks of stock shortages or overstocking.
 - Compare manufacturing costs against revenue to identify products with poor profitability.
 Provide strategic recommendations that improve operational efficiency, reduce costs, and increase revenue.
+
+---
+## Tools Used
+- Power BI
+- Power Query
+- DAX
+
+---
+## Dashboard Overview
+Executive Overview
+
+Purpose: Provide executives with a high-level overview of operational performance.
+
+KPIs
+- Revenue
+- Manufacturing Cost
+- Defect Rate
+- Order Quantity
+
+Business Questions
+
+How is the business performing?
+Which supplier contributes the most revenue?
+Which region generates the highest revenue?
+Which product generates the most revenue?
+- 
