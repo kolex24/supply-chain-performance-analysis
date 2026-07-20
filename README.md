@@ -94,8 +94,40 @@ Purpose: Provide executives with a high-level overview of operational performanc
 
 **Inventory**
 
+**KPIs**
+- Availability
+- Products Needing Reorder
+- Inventory Value
+- Inventory Turnover
+- Reorder Point
+- Stock
+- Stock Coverage
+- Average Daily Demand
 
+**Business Questions:**
+- Which product have the most stock and reorder point?
+- Which product generate the most inventory value?
+- Which region have the highest inventory value?
+- Which product have the longest days of stock?
+- Which external partners require immediate intervention?
 
+**Quality**
 
+**KPIs**
+- Inspection Rate
+- Defective Items
+- Defect Rate
+- Manufacturing Cost
+- Inspection Pass Rate
+- Revenue
+
+**Business Questions:**
+- Which product category is driving the most inspection failure?
+- Does how we shi affect product quality?
+- Which suppliers are consistently delivering defective products?
+- Are certain carriers damaging goods in transit?
+- Which region has the worst quality performance? 
 
 ---
+
+
