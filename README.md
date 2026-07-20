@@ -165,7 +165,7 @@ Skincare products are the primary revenue driver, suggesting they represent the 
 - Expand promotional activities in high-performing locations.
 - Investigate why Bangalore has comparatively lower sales performance.
 
-**Supply Chain:**
+**Supply Chain**
 
 **Insight:**
 Route A generates the highest revenue but also incurs the highest transportation cost, suggesting that additional cost analysis is needed to determine whether the revenue justifies logistics expenses. Road transportation accounts for the largest transportation cost, indicating an opportunity to optimize route planning.
@@ -175,7 +175,7 @@ Route A generates the highest revenue but also incurs the highest transportation
 - Investigate opportunities to reduce road transportation costs through route optimization or carrier negotiations.
 - Monitor Carrier B's shipping performance to ensure higher costs correspond to better service levels.
 
-**Inventory:**
+**Inventory**
 
 **Insight:**
 Eighty-five products currently require replenishment, indicating potential stockout risks if procurement actions are delayed. Cosmetics products have the highest inventory coverage, which may suggest slower inventory turnover and excess stock.
@@ -184,7 +184,7 @@ Eighty-five products currently require replenishment, indicating potential stock
 - Prioritize replenishment orders for products below their reorder points.
 - Review procurement schedules for slow-moving products to reduce excess inventory holding costs.
 
-**Quality:**
+**Quality**
 
 **Insight:**
 Supplier 5 consistently records the highest average defect rate, indicating potential quality control issues. Products transported by road also exhibit higher defect rates compared to other transportation modes, suggesting that logistics conditions may be affecting product quality.
