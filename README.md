@@ -34,7 +34,7 @@ A manufacturing company faced challenges in monitoring sales performance, logist
 - Examine shipping carriers and transportation modes to determine the most cost-effective delivery methods.
 - Monitor inventory availability and stock levels to identify risks of stock shortages or overstocking.
 - Compare manufacturing costs against revenue to identify products with poor profitability.
-Provide strategic recommendations that improve operational efficiency, reduce costs, and increase revenue.
+- Provide strategic recommendations that improve operational efficiency, reduce costs, and increase revenue.
 
 ---
 ## Tools Used
@@ -54,10 +54,24 @@ KPIs
 - Defect Rate
 - Order Quantity
 
-Business Questions
+Business Questions:
+- How is the business performing?
+- Which supplier contributes the most revenue?
+- Which region generates the highest revenue?
+- Which product generates the most revenue?
 
-How is the business performing?
-Which supplier contributes the most revenue?
-Which region generates the highest revenue?
-Which product generates the most revenue?
-- 
+Sales Performance
+
+KPIs
+- Number of Product Sold
+- Production Volume
+- Price
+- Availability
+- Revenue
+
+Business Questions:
+- Which region have the most number of product sold?
+- Which product generate the highest production volume and price?
+- Which product generate the most most revenue?
+- Which customer demographic contribute the most to the revenue?
+---
