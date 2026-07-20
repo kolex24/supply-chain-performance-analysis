@@ -44,34 +44,58 @@ A manufacturing company faced challenges in monitoring sales performance, logist
 
 ---
 ## Dashboard Overview
-Executive Overview
+**Executive Overview**
 
 Purpose: Provide executives with a high-level overview of operational performance.
 
-KPIs
+**KPIs**
 - Revenue
 - Manufacturing Cost
 - Defect Rate
 - Order Quantity
 
-Business Questions:
+**Business Questions:**
 - How is the business performing?
 - Which supplier contributes the most revenue?
 - Which region generates the highest revenue?
 - Which product generates the most revenue?
 
-Sales Performance
+**Sales Performance**
 
-KPIs
+**KPIs**
 - Number of Product Sold
 - Production Volume
 - Price
 - Availability
 - Revenue
 
-Business Questions:
+**Business Questions:**
 - Which region have the most number of product sold?
 - Which product generate the highest production volume and price?
 - Which product generate the most most revenue?
 - Which customer demographic contribute the most to the revenue?
+
+**Supply Chain**
+
+**KPIs**
+- Transportation Cost
+- Shipping Cost
+- Lead Time
+- Shipping Times
+- Defect Rates
+
+**Business Questions:**
+- Which transportation route is the most expensive and have the highest revenue?
+- Which carrier have the highest shipping cost?
+- Which carrier have the most lead times and shipping times?
+- Which transportation mode have the lesat cost?
+- Which supplier have the highest shipping cost?
+- Which carrier have the most defect rates?
+
+**Inventory**
+
+
+
+
+
 ---
