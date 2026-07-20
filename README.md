@@ -141,6 +141,8 @@ The dataset was cleaned using Power Query by:
 - Building relationships
 - Creating DAX measures for KPI reporting
 
+---
+
 ## Business Insight & Recommendation
 
 **Executive Overview**
@@ -192,5 +194,5 @@ Supplier 5 consistently records the highest average defect rate, indicating pote
 - Review packaging and handling procedures for road transportation.
 - Increase inspection frequency for products supplied by high-defect vendors.
 
-
+---
 
