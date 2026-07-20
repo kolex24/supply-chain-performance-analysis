@@ -130,4 +130,67 @@ Purpose: Provide executives with a high-level overview of operational performanc
 
 ---
 
+## Data Cleaning
+
+The dataset was cleaned using Power Query by:
+
+- Removing duplicate records
+- Handling missing values
+- Correcting data types
+- Creating calculated columns
+- Building relationships
+- Creating DAX measures for KPI reporting
+
+## Business Insight & Recommendation
+
+**Executive Overview**
+
+**Insight**:
+Supplier 1 is the company's largest revenue contributor, accounting for $157.53K (27%) of total revenue. Mumbai is the highest-performing market, indicating strong regional demand. Although the overall defect rate remains relatively low (2.28%), maintaining product quality should remain a priority as production scales.
+
+**Action:**
+- Strengthen partnerships with Supplier 1 while reducing dependency by improving the performance of lower-contributing suppliers.
+- Increase inventory allocation to Mumbai to support sustained customer demand.
+- Continue monitoring defect rates to maintain product quality as sales grow.
+
+**Sales Performance**
+
+**Insight:**
+Skincare products are the primary revenue driver, suggesting they represent the company's strongest product category. Kolkata records the highest sales volume, highlighting it as a key market for future inventory planning and marketing investment.
+
+**Action:**
+- Prioritize production of skincare products.
+- Expand promotional activities in high-performing locations.
+- Investigate why Bangalore has comparatively lower sales performance.
+
+**Supply Chain:**
+
+**Insight:**
+Route A generates the highest revenue but also incurs the highest transportation cost, suggesting that additional cost analysis is needed to determine whether the revenue justifies logistics expenses. Road transportation accounts for the largest transportation cost, indicating an opportunity to optimize route planning.
+
+**Action:**
+- Evaluate Route A's profit contribution rather than focusing solely on revenue.
+- Investigate opportunities to reduce road transportation costs through route optimization or carrier negotiations.
+- Monitor Carrier B's shipping performance to ensure higher costs correspond to better service levels.
+
+**Inventory:**
+
+**Insight:**
+Eighty-five products currently require replenishment, indicating potential stockout risks if procurement actions are delayed. Cosmetics products have the highest inventory coverage, which may suggest slower inventory turnover and excess stock.
+
+**Action:**
+- Prioritize replenishment orders for products below their reorder points.
+- Review procurement schedules for slow-moving products to reduce excess inventory holding costs.
+
+**Quality:**
+
+**Insight:**
+Supplier 5 consistently records the highest average defect rate, indicating potential quality control issues. Products transported by road also exhibit higher defect rates compared to other transportation modes, suggesting that logistics conditions may be affecting product quality.
+
+**Action:**
+- Conduct a supplier quality audit for Supplier 5.
+- Review packaging and handling procedures for road transportation.
+- Increase inspection frequency for products supplied by high-defect vendors.
+
+
 
